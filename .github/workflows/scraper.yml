@@ -32,12 +32,12 @@ jobs:
         git commit -m "Scraper update" || echo "No changes to commit"
         git push origin main
 
-    - name: Push JSON to DDSNews Site Repo
+    - name: Push JSON to DDS Site Repo
       env:
         TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
-        # Clone the DDSNews site repo using the PAT
-        git clone https://$TOKEN@github.com/CastellumResources/DDSNews-Site.git site
+        # Clone the DDS Site Repo using the PAT
+        git clone https://$TOKEN@github.com/CastellumResources/DDS-Site-Repo.git site
 
         # Copy the new JSON into the site repo
         cp headlines.json site/headlines.json
@@ -48,4 +48,5 @@ jobs:
         git add headlines.json
         git commit -m "Automated update from scraper" || echo "No changes"
         git push
+
 
