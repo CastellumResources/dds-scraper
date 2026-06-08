@@ -1,16 +1,16 @@
 name: Run DDS Scraper
 
 on:
-  workflow_dispatch:        # allows manual runs
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"     # runs every hour
+    - cron: "0 * * * *"   # every hour
 
 jobs:
   run-scraper:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
+    - name: Checkout scraper repo
       uses: actions/checkout@v4
 
     - name: Set up Python
@@ -24,10 +24,28 @@ jobs:
     - name: Run scraper
       run: python multi_site_scraper.py
 
-    - name: Commit and push JSON
+    - name: Commit JSON to scraper repo
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "actions@github.com"
         git add headlines.json || true
-        git commit -m "Automated update" || echo "No changes to commit"
+        git commit -m "Scraper update" || echo "No changes to commit"
+        git push origin main
+
+    - name: Push JSON to DDSNews Site Repo
+      env:
+        TOKEN: ${{ secrets.PAT_TOKEN }}
+      run: |
+        # Clone the DDSNews site repo using the PAT
+        git clone https://$TOKEN@github.com/CastellumResources/DDSNews-Site.git site
+
+        # Copy the new JSON into the site repo
+        cp headlines.json site/headlines.json
+
+        cd site
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add headlines.json
+        git commit -m "Automated update from scraper" || echo "No changes"
         git push
+
