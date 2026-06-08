@@ -129,7 +129,7 @@ if __name__ == "__main__":
         print(f"   Published: {item['published_at']}\n")
 
     # Optional: write to JSON feed file
-    with open(r"C:\Users\user\Documents\Noel Folder\DDS Project\DDS Scraper\headlines.json", "w", encoding="utf-8") as f:
+    with open("headlines.json", "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
 
     print("headlines.json written.")
@@ -138,10 +138,10 @@ import traceback
 
 try:
     items = fetch_all_sources()
-    with open(r"C:\Users\user\Documents\Noel Folder\DDS Project\DDS Scraper\headlines.json", "w", encoding="utf-8") as f:
+    with open("headlines.json", "w", encoding="utf-8") as f:
         json.dump(items, f, indent=2, ensure_ascii=False)
 except Exception as e:
-    with open(r"C:\Users\user\Documents\Noel Folder\DDS Project\DDS Scraper\error.log", "a") as f:
+    with open("headlines.json", "w", encoding="utf-8") as f:
         f.write(str(e) + "\n")
         f.write(traceback.format_exc() + "\n")
     
