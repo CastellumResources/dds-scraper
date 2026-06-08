@@ -3,6 +3,7 @@ import feedparser
 from datetime import datetime
 import html
 import json
+import traceback
 
 # ---------- HELPERS ----------
 
@@ -60,7 +61,6 @@ def fetch_rss(source_name, feed_url, limit=10):
         excerpt = clean_html(summary)
 
         # Try to get a published date
-        published = None
         if "published" in entry:
             published = entry.published
         elif "updated" in entry:
@@ -118,30 +118,21 @@ def fetch_all_sources():
 # ---------- MAIN ----------
 
 if __name__ == "__main__":
-    items = fetch_all_sources()
+    try:
+        items = fetch_all_sources()
 
-    print(f"Total items fetched: {len(items)}\n")
+        # Write JSON feed into repo root (GitHub Actions compatible)
+        with open("headlines.json", "w", encoding="utf-8") as f:
+            json.dump(items, f, indent=2, ensure_ascii=False)
 
-    for i, item in enumerate(items, start=1):
-        print(f"{i}. [{item['source']}] {item['headline']}")
-        print(f"   Link: {item['link']}")
-        print(f"   Excerpt: {item['excerpt'][:140]}...")
-        print(f"   Published: {item['published_at']}\n")
+        print(f"Scraped {len(items)} items successfully.")
 
-    # Optional: write to JSON feed file
-    with open(r"C:\Users\user\Documents\Noel Folder\DDS Project\DDS Scraper\headlines.json", "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
+    except Exception as e:
+        # Write errors to a log file in the repo
+        with open("error.log", "a", encoding="utf-8") as f:
+            f.write(str(e) + "\n")
+            f.write(traceback.format_exc() + "\n")
 
-    print("headlines.json written.")
-    
-import traceback
+        print("An error occurred. Check error.log for details.")
 
-try:
-    items = fetch_all_sources()
-    with open(r"C:\Users\user\Documents\Noel Folder\DDS Project\DDS Scraper\headlines.json", "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
-except Exception as e:
-    with open(r"C:\Users\user\Documents\Noel Folder\DDS Project\DDS Scraper\error.log", "a") as f:
-        f.write(str(e) + "\n")
-        f.write(traceback.format_exc() + "\n")
     
