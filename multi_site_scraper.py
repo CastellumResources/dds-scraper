@@ -133,15 +133,3 @@ if __name__ == "__main__":
         json.dump(items, f, indent=2, ensure_ascii=False)
 
     print("headlines.json written.")
-    
-import traceback
-
-try:
-    items = fetch_all_sources()
-    with open("headlines.json", "w", encoding="utf-8") as f:
-        json.dump(items, f, indent=2, ensure_ascii=False)
-except Exception as e:
-    with open("headlines.json", "w", encoding="utf-8") as f:
-        f.write(str(e) + "\n")
-        f.write(traceback.format_exc() + "\n")
-    
