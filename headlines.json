@@ -81,6 +81,14 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "David Beckham present at all sporting events simultaneously",
+    "excerpt": "",
+    "link": "https://www.thedailymash.co.uk/sport/david-beckham-present-at-all-sporting-events-simultaneously-20260630267478",
+    "published_at": "Tue, 30 Jun 2026 15:00:42 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260630154200/beckham-wimbledon-667x375-1.jpg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "Idiot Britons theorise that cake must be better if bought from a shed",
     "excerpt": "CREDULOUS cretins throughout the UK have managed to convince themselves that shed cake will taste much nicer than normal cake.",
     "link": "https://www.thedailymash.co.uk/news/food/idiot-britons-theorise-that-cake-must-be-better-if-bought-from-a-shed-20260630267473",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/sport/england-win-in-way-that-makes-fans-hate-them-20260629267440",
     "published_at": "Mon, 29 Jun 2026 10:00:05 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260629104150/kane-bellingham-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "How to cope with your child’s teacher being a Gen Z wanker",
-    "excerpt": "IN your schooldays Mr Logan would emerge from the cigarette smoke of the staffroom, mutter about fractions and visibly wish he could still belt you one.",
-    "link": "https://www.thedailymash.co.uk/news/society/how-to-cope-with-your-childs-teacher-being-a-gen-z-wanker-20260629267435",
-    "published_at": "Mon, 29 Jun 2026 09:00:11 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260629095648/gen-z-teacher-667x375-1.jpeg"
   }
 ]
