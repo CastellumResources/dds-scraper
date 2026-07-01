@@ -81,6 +81,22 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "250 years of American independence: Was it worth it?",
+    "excerpt": "DESPITE Trump happening twice, America is celebrating 250 years of independence from Britain. But was it a terrible, regrettable mistake all along? Let’s weigh the evidence.",
+    "link": "https://www.thedailymash.co.uk/news/international/250-years-of-american-independence-was-it-worth-it-20260701267485",
+    "published_at": "Wed, 01 Jul 2026 09:01:02 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260701095114/dollar-close-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
+    "headline": "Vince, Trevor and other names not making a comeback",
+    "excerpt": "WHILE once-unpopular names like Alfie and Ivy have enjoyed spectacular revivals, others have not. Britain has quietly agreed that no child should have to answer to these.",
+    "link": "https://www.thedailymash.co.uk/news/society/vince-trevor-and-other-names-not-making-a-comeback-20260701267481",
+    "published_at": "Wed, 01 Jul 2026 08:00:09 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260701084644/older-man-smoking-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "David Beckham present at all sporting events simultaneously",
     "excerpt": "",
     "link": "https://www.thedailymash.co.uk/sport/david-beckham-present-at-all-sporting-events-simultaneously-20260630267478",
@@ -142,21 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/celebrity/i-have-reached-the-stage-of-my-marriage-when-i-need-to-get-out-of-the-fking-house-20260629267447",
     "published_at": "Mon, 29 Jun 2026 11:59:05 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260629123510/kate-mountain-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Could you replace Emma Raducanu as Britain’s great hope for Wimbledon? A quiz",
-    "excerpt": "BRITAIN’S Wimbledon hopes have been dashed, unless a last-minute replacement for injured Emma Raducanu can be found. Could it be you?",
-    "link": "https://www.thedailymash.co.uk/sport/could-you-replace-emma-raducanu-as-britains-great-hope-for-wimbledon-a-quiz-20260629267444",
-    "published_at": "Mon, 29 Jun 2026 11:00:29 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260629113919/emma-radacanu-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "England win in way that makes fans hate them",
-    "excerpt": "ENGLAND have qualified for the second round of the World Cup at the trivial cost of losing the support of every fan who watched the last two games.",
-    "link": "https://www.thedailymash.co.uk/sport/england-win-in-way-that-makes-fans-hate-them-20260629267440",
-    "published_at": "Mon, 29 Jun 2026 10:00:05 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260629104150/kane-bellingham-667x375-1.jpeg"
   }
 ]
