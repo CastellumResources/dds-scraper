@@ -81,6 +81,14 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "World Cup stupid anyway",
+    "excerpt": "THE World Cup football tournament is stupid and England did not want to win it anyway, it has emerged.",
+    "link": "https://www.thedailymash.co.uk/sport/world-cup-stupid-anyway-20260716267835",
+    "published_at": "Thu, 16 Jul 2026 07:58:57 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260715234534/england-after-match-SMALL.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "Close-ups to capture Messi’s distaste at playing England",
     "excerpt": "",
     "link": "https://www.thedailymash.co.uk/sport/close-ups-to-capture-messis-distaste-at-playing-england-20260715267829",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/lifestyle/middle-aged-man-can-only-make-major-purchases-on-laptop-20260714267797",
     "published_at": "Tue, 14 Jul 2026 10:55:06 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260714114742/older-man-laptop-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "No link between academic performance and giving end-of-year gifts so don’t bother",
-    "excerpt": "RESEARCH has found there is no correlation between giving teachers expensive end-of-year gifts and academic performance so parents should not waste their money.",
-    "link": "https://www.thedailymash.co.uk/news/society/no-link-between-academic-performance-and-giving-end-of-year-gifts-so-dont-bother-20260714267792",
-    "published_at": "Tue, 14 Jul 2026 10:01:19 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260714105013/teacher-flowers-667x375-1.jpeg"
   }
 ]
