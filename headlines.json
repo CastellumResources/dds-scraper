@@ -1,6 +1,22 @@
 [
   {
     "source": "The Onion",
+    "headline": "U.S. Bans Foreign-Made Humanoid Robots",
+    "excerpt": "The FCC targeted China by banning the import of foreign-made humanoid robots, citing cybersecurity and national security concerns. What do you think? The post U.S. Bans Foreign-Made Humanoid Robots appeared first on The Onion .",
+    "link": "https://theonion.com/u-s-bans-foreign-made-humanoid-robots/",
+    "published_at": "Mon, 03 Aug 2026 15:59:06 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Black.jpg?w=200"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Powerball By The Numbers",
+    "excerpt": "Many U.S.-based players have reportedly stopped purchasing Powerball tickets in spite of a growing jackpot, believing the odds of winning have plummeted amid the multistate lottery game’s recent expansion into the U.K. The Onion examines the key facts and figures behind Powerball. 1.2 Average number of years until winners miserable again 26 Brood size of […] The post Powerball By The Numbers appeared first on The Onion .",
+    "link": "https://theonion.com/powerball-by-the-numbers/",
+    "published_at": "Mon, 03 Aug 2026 14:44:31 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/08/EXP_Powerball_G_PH.jpg"
+  },
+  {
+    "source": "The Onion",
     "headline": "Power-Mad Marvel Claims ‘Night At The Roxbury’ Part Of MCU",
     "excerpt": "BURBANK, CA—In a bold and shameless effort to expand their growing reach in the film industry, power-mad Marvel Studios executives claimed Friday that A Night At The Roxbury was part of the Marvel Cinematic Universe. “The Eurodance-loving crime fighters are an iconic superhero duo who have long been a fixture of the MCU, delighting our audiences […] The post Power-Mad Marvel Claims ‘Night At The Roxbury’ Part Of MCU appeared first on The Onion .",
     "link": "https://theonion.com/power-mad-marvel-claims-night-at-the-roxbury-part-of-mcu/",
@@ -64,20 +80,12 @@
     "image": "https://theonion.com/wp-content/uploads/2026/07/GettyImages-2287747467.jpg"
   },
   {
-    "source": "The Onion",
-    "headline": "Red Cross Warns Blood Supply Alarmingly Low",
-    "excerpt": "The American Red Cross warned that a critical shortage of blood could prevent those needing life-saving transfusions from getting them, urging donations from everyone eligible to give. What do you think? The post Red Cross Warns Blood Supply Alarmingly Low appeared first on The Onion .",
-    "link": "https://theonion.com/red-cross-warns-blood-supply-alarmingly-low/",
-    "published_at": "Fri, 31 Jul 2026 16:44:32 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Young-Man.jpg?w=200"
-  },
-  {
-    "source": "The Onion",
-    "headline": "Report: Artists Not Boycotting Grammys Down To Meghan Trainor, Susan Boyle, Sugar Ray",
-    "excerpt": "SANTA MONICA, CA—Stating that they were looking forward to another spectacular and soul-stirring awards ceremony in February, the Recording Academy confirmed Friday that the list of artists not boycotting the Grammys was down to Meghan Trainor, Susan Boyle, and Sugar Ray. “While we are disappointed that some musicians have declined to participate, we could not […] The post Report: Artists Not Boycotting Grammys Down To Meghan Trainor, Susan Boyle, Sugar Ray appeared first on The Onion .",
-    "link": "https://theonion.com/report-artists-not-boycotting-grammys-down-to-meghan-trainor-susan-boyle-sugar-ray/",
-    "published_at": "Fri, 31 Jul 2026 16:43:17 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/07/Artists_Not_NIB_G_GR.jpg"
+    "source": "The Daily Mash",
+    "headline": "Cambridge professor makes so many wild claims he’s headhunted by Reform",
+    "excerpt": "",
+    "link": "https://www.thedailymash.co.uk/politics/cambridge-professor-makes-so-many-wild-claims-hes-headhunted-by-reform-20260803268372",
+    "published_at": "Mon, 03 Aug 2026 14:00:04 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260803142434/jason-arday-667x375-1.jpg"
   },
   {
     "source": "The Daily Mash",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/society/passengers-to-pay-less-for-trains-that-dont-turn-up-2-20260731268290",
     "published_at": "Fri, 31 Jul 2026 12:01:44 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260730162557/train-667x375-1.png"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "The Archbishop of Canterbury on… Boy George’s pro-Israel AI slop could ruin his non-career",
-    "excerpt": "WAKING up with a hangover so raging it has been declared a national emergency, I quaff several gallons of water to control the unfolding crisis.",
-    "link": "https://www.thedailymash.co.uk/news/celebrity/the-archbishop-of-canterbury-on-boy-georges-pro-israel-ai-slop-could-ruin-his-non-career-20260731268311",
-    "published_at": "Fri, 31 Jul 2026 11:00:22 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260730224712/boy-george-667x375-1.jpg"
   }
 ]
