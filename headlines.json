@@ -81,6 +81,22 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "Popular middle-aged man has three friends",
+    "excerpt": "A SOCIAL butterfly of a 41-year-old claims to know three whole people he can readily classify as friends.",
+    "link": "https://www.thedailymash.co.uk/news/lifestyle/popular-middle-aged-man-has-three-friends-20260804268388",
+    "published_at": "Tue, 04 Aug 2026 10:54:50 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260804112415/men-in-pub-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
+    "headline": "Scottish student would trade all his so-called ‘Highers’ for one honest A-level",
+    "excerpt": "A SCOTTISH student has admitted he would swap every ‘Higher’ he achieves today for a simple, honest A-level.",
+    "link": "https://www.thedailymash.co.uk/news/society/scottish-student-would-trade-all-his-so-called-highers-for-one-honest-a-level-20260804268384",
+    "published_at": "Tue, 04 Aug 2026 10:01:16 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260804105428/sad-ginger-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "Mum advising against motherhood a little too forcefully",
     "excerpt": "A WOMAN discouraging her daughter from having children appears to be speaking from bitter personal experience.",
     "link": "https://www.thedailymash.co.uk/news/relationships/mum-advising-against-motherhood-a-little-too-forcefully-20260804268378",
@@ -142,21 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/celebrity/no-way-of-knowing-jared-leto-johnny-depp-and-russell-brand-were-creepy-20260803268353",
     "published_at": "Mon, 03 Aug 2026 08:00:10 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260803085039/jared-leto-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "12 items to awkwardly retrieve from the person you dumped last week",
-    "excerpt": "BREAKING up was a good idea but leaving a load of stuff at their place wasn’t. Here are the items you’re going to have to get back.",
-    "link": "https://www.thedailymash.co.uk/news/relationships/12-items-to-awkwardly-retrieve-from-the-person-you-dumped-last-week-20260801268308",
-    "published_at": "Sat, 01 Aug 2026 09:30:30 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260730213914/woman-leaving-SMALL.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "We ask you: Are you terrified of being hacked by an AI?",
-    "excerpt": "FIRST a version of ChatGPT hacked other systems, now it’s Anthropic’s Claude AI doing it. Are you understandably scared of an AI hacking you?",
-    "link": "https://www.thedailymash.co.uk/news/science-technology/we-ask-you-are-you-terrified-of-being-hacked-by-an-ai-20260801268331",
-    "published_at": "Sat, 01 Aug 2026 08:30:13 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260731120101/computer-woman-worried-SMALL.jpeg"
   }
 ]
