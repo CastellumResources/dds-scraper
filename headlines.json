@@ -81,6 +81,14 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "I’m better than you, because I swim at a lido",
+    "excerpt": "OH, you swim? Oh. You swim at an indoor municipal pool. You have my pity, for I would not dream of taking the waters anywhere but a lido.",
+    "link": "https://www.thedailymash.co.uk/news/health/im-better-than-you-because-i-swim-at-a-lido-20260807268505",
+    "published_at": "Fri, 07 Aug 2026 11:59:59 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260807113100/lido-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "Five things that should be banned in pubs before vertical drinking",
     "excerpt": "THERE’S a row over whether standing in pubs, or ‘vertical drinking’, should be banned. But there are plenty of other irritations to ban first, like these.",
     "link": "https://www.thedailymash.co.uk/news/alcohol/five-things-that-should-be-banned-in-pubs-before-vertical-drinking-20260807268496",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/relationships/escort-visits-the-biggest-cost-of-being-single-20260806268421",
     "published_at": "Thu, 06 Aug 2026 07:58:19 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260805205148/hotel-escort-SMALL.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Welsh have no idea who Luke’s father is",
-    "excerpt": "",
-    "link": "https://www.thedailymash.co.uk/news/arts-entertainment/welsh-have-no-idea-who-lukes-father-is-20260805268418",
-    "published_at": "Wed, 05 Aug 2026 16:43:36 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260805171543/vader-skywalker-667x375-1.jpg"
   }
 ]
