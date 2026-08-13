@@ -81,6 +81,14 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "Only sexy people enjoying summer",
+    "excerpt": "ONLY attractive people with toned, fit bodies are truly enjoying the summer.",
+    "link": "https://www.thedailymash.co.uk/news/lifestyle/only-sexy-people-enjoying-summer-20260813268602",
+    "published_at": "Thu, 13 Aug 2026 10:02:07 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260813090756/hot-woman-beach-SMALL.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "So apparently we weren’t meant to look directly at the sun?",
     "excerpt": "OKAY, apparently I missed something in yesterday’s eclipse coverage? Why did nobody mention it was a bad idea to stare directly into the sun for 90 seconds?",
     "link": "https://www.thedailymash.co.uk/news/environment/so-apparently-we-werent-meant-to-look-directly-at-the-sun-20260813268620",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/business/ratio-of-vape-shops-to-uk-residents-to-be-reduced-to-11-20260811268574",
     "published_at": "Tue, 11 Aug 2026 15:01:02 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260811155755/vape-shop-667x375-2.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Heatwave provides excuse to eat f**k-off chunk of ice cream on a stick",
-    "excerpt": "THE heatwave sweeping England and Wales has given everyone an excellent excuse to eat a huge block of chocolate-coated ice cream on a wooden stick.",
-    "link": "https://www.thedailymash.co.uk/news/food/heatwave-provides-excuse-to-eat-fk-off-chunk-of-ice-cream-on-a-stick-20260811268571",
-    "published_at": "Tue, 11 Aug 2026 11:59:38 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260811125040/ice-cream-667x375-1.jpeg"
   }
 ]
