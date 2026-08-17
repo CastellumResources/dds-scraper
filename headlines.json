@@ -81,6 +81,14 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "Gen Alpha discovers Lemmy was not a religious figure",
+    "excerpt": "13-YEAR-OLDS are learning that Lemmy, widely known as St Kilmister of Motörhead, was not canonised by any major church and their fathers were lying.",
+    "link": "https://www.thedailymash.co.uk/news/celebrity/gen-alpha-discovers-lemmy-was-not-a-religious-figure-20260817268711",
+    "published_at": "Mon, 17 Aug 2026 11:59:51 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260817125242/lemmy-kilmister-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "Next emergency alert to warn against texting your ex",
     "excerpt": "THE next emergency alert sent to all residents of the UK without warning will warn against sending a text to your ex.",
     "link": "https://www.thedailymash.co.uk/news/society/next-emergency-alert-to-warn-against-texting-your-ex-20260817268707",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/environment/woman-merges-with-pleather-sofa-20260814268654",
     "published_at": "Fri, 14 Aug 2026 10:07:07 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260814110014/fake-leather-sofa-SMALL.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "I won, so Binface now faces a parliamentary investigation over a £5m donation. That is how elections work",
-    "excerpt": "I TRIUMPHED in the Clacton by-election, therefore Count Binface must face the Parliamentary Standards Committee. Because that is democracy in action.",
-    "link": "https://www.thedailymash.co.uk/politics/i-won-so-binface-now-faces-a-parliamentary-investigation-over-a-5m-donation-that-is-how-elections-work-20260814268656",
-    "published_at": "Fri, 14 Aug 2026 09:04:51 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260814100114/farage-clacton-SMALL.jpeg"
   }
 ]
