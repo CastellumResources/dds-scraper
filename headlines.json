@@ -81,6 +81,14 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "Atlantis, and other things easier to find than an NHS dentist",
+    "excerpt": "BAD teeth due to being British? Theoretically an NHS dentist can treat you, but due to underfunding and greed you would have more luck finding these.",
+    "link": "https://www.thedailymash.co.uk/news/health/atlantis-and-other-things-easier-to-find-than-an-nhs-dentist-20260824268859",
+    "published_at": "Mon, 24 Aug 2026 11:00:06 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260824115526/dentist-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "Are you a talented sportsman who enjoys getting shitfaced? Why not play cricket",
     "excerpt": "ARE you good at sport? But too keen on making a living for athletics, and too keen on going out on the lash for football? Why not give cricket a try?",
     "link": "https://www.thedailymash.co.uk/sport/are-you-a-talented-sportsman-who-enjoys-getting-shitfaced-why-not-play-cricket-20260824268854",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/celebrity/meghan-takes-role-in-eastenders-20260821268823",
     "published_at": "Fri, 21 Aug 2026 10:00:41 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260821101746/meghan-667x375-2.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "The six stages of disillusionment with your club’s summer buys",
-    "excerpt": "HEADY with anticipation at a man you’ve never heard of signing for the club you support? These are the six stages in your journey to hatred.",
-    "link": "https://www.thedailymash.co.uk/sport/the-six-stages-of-disillusionment-with-your-clubs-summer-buys-20260821268817",
-    "published_at": "Fri, 21 Aug 2026 09:00:30 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20260821082630/Ousmane-Diomande-667x375-1.jpeg"
   }
 ]
