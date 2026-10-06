@@ -89,6 +89,38 @@
   },
   {
     "source": "The Daily Mash",
+    "headline": "The obituary of Jeffrey Archer, written by Jeffrey Archer",
+    "excerpt": "JEFFREY Archer, 1940-2026, statesman, bestselling author, Olympic 100m sprint gold medallist, astronaut, and faithful husband has passed on. He sums up his life in his own words.",
+    "link": "https://www.thedailymash.co.uk/politics/the-obituary-of-jeffrey-archer-written-by-jeffrey-archer-20261006269875",
+    "published_at": "Tue, 06 Oct 2026 10:55:10 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261006113408/jeffrey-archer-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
+    "headline": "Pub boasts city’s widest selection of identical IPAs",
+    "excerpt": "A WELL-STOCKED city watering hole is ready to cater to the needs of drinkers who want to choose from up to 28 differently-named 4.5 per cent IPAs with citrus notes.",
+    "link": "https://www.thedailymash.co.uk/news/alcohol/pub-boasts-citys-widest-selection-of-identical-ipas-20261006269872",
+    "published_at": "Tue, 06 Oct 2026 10:00:27 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261006102519/bar-ipas-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
+    "headline": "Perfecting nuclear fusion, and other ways to pull Hannah Fry",
+    "excerpt": "CELEBRITY Traitors contestant Hannah Fry is not only intelligent, but in a maths way. If you want to stand a chance with her you need to excel at science. Do any of these.",
+    "link": "https://www.thedailymash.co.uk/news/science-technology/perfecting-nuclear-fusion-and-other-ways-to-pull-hannah-fry-20261006269868",
+    "published_at": "Tue, 06 Oct 2026 09:01:58 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261006095505/hannah-fry-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
+    "headline": "Rotting leaves, Christmas ads, face-height spiders’ webs: Six reasons autumn is shite",
+    "excerpt": "AUTUMN is the favourite season of the arty and pretentious while being a bloody horrible time of year decent people abhor. This is why.",
+    "link": "https://www.thedailymash.co.uk/news/environment/rotting-leaves-christmas-ads-face-height-spiders-webs-six-reasons-autumn-is-shite-20261006269863",
+    "published_at": "Tue, 06 Oct 2026 08:01:12 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261006085828/weat-autumn-leaves-667x375-1.jpeg"
+  },
+  {
+    "source": "The Daily Mash",
     "headline": "RAF Fairford withdrawal leaves pensioners unable to trade sex for stockings",
     "excerpt": "",
     "link": "https://www.thedailymash.co.uk/news/work/raf-fairford-withdrawal-leaves-pensioners-unable-to-trade-sex-for-stockings-20261005269856",
@@ -126,37 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/lifestyle/are-you-a-dog-person-asks-dog-owner-staring-her-dog-loving-eyes-into-your-shrivelled-soul-20261005269838",
     "published_at": "Mon, 05 Oct 2026 09:00:03 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261005094935/woman-labrador-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Nelson Mandala riding an elephant through Manhattan, and other stuff mums aren’t sure is AI",
-    "excerpt": "MOTHERING a child causes certain biological changes, among them being able to discern what is real and what is generative AI. Mum’s sent you these five just to double-check.",
-    "link": "https://www.thedailymash.co.uk/news/science-technology/nelson-mandala-riding-an-elephant-through-manhattan-and-other-stuff-mums-arent-sure-is-ai-20261005269834",
-    "published_at": "Mon, 05 Oct 2026 08:00:09 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261005084626/old-woman-ipad-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Six deliciously disappointed twats on Antiques Roadshow",
-    "excerpt": "ON Antiques Roadshow ? You’re expecting life-changing amounts of money, don’t lie. These are the disappointments we savour when it’s worth nothing but YouTube views.",
-    "link": "https://www.thedailymash.co.uk/news/arts-entertainment/six-deliciously-disappointed-twats-on-antiques-roadshow-20261003269782",
-    "published_at": "Sat, 03 Oct 2026 09:30:29 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261001165548/antiques-roadshow-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "We ask you: What unnecessarily cruel punishment should Man City suffer?",
-    "excerpt": "MANCHESTER City have sinned and must be scourged, for so it is written by the Premier League. What should be their penance?",
-    "link": "https://www.thedailymash.co.uk/sport/we-ask-you-what-unnecessarily-cruel-punishment-should-man-city-suffer-20261003269778",
-    "published_at": "Sat, 03 Oct 2026 08:30:49 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261001164410/pep-guardiola-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Proud French father sees son rioting on news",
-    "excerpt": "",
-    "link": "https://www.thedailymash.co.uk/news/international/proud-french-father-sees-son-rioting-on-news-20261002269831",
-    "published_at": "Fri, 02 Oct 2026 16:02:05 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261002165953/france-riots-667x375-1.jpg"
   }
 ]
