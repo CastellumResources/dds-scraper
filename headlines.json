@@ -1,6 +1,22 @@
 [
   {
     "source": "The Onion",
+    "headline": "Corn Named World’s Sexiest Plant",
+    "excerpt": "The post Corn Named World’s Sexiest Plant appeared first on The Onion .",
+    "link": "https://theonion.com/corn-named-worlds-sexiest-plant/",
+    "published_at": "Wed, 14 Oct 2026 16:58:30 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/Corn_Named-PH-R.jpg"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Lewis Hamilton Figures It Probably Too Late To Ask Girlfriend Which One She Is",
+    "excerpt": "The post Lewis Hamilton Figures It Probably Too Late To Ask Girlfriend Which One She Is appeared first on The Onion .",
+    "link": "https://theonion.com/lewis-hamilton-figures-it-probably-too-late-to-ask-girlfriend-which-one-she-is/",
+    "published_at": "Wed, 14 Oct 2026 16:52:01 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/Lewis_Hamilton_SB_G_PH_Social.jpg"
+  },
+  {
+    "source": "The Onion",
     "headline": "Will Trump Running For Midterm President Help Down-Ballot Republicans?",
     "excerpt": "The post Will Trump Running For Midterm President Help Down-Ballot Republicans? appeared first on The Onion .",
     "link": "https://theonion.com/will-trump-running-for-midterm-president-help-down-ballot-republicans/",
@@ -64,20 +80,12 @@
     "image": "https://theonion.com/wp-content/uploads/2026/10/EXP_WTK_Russian_Plague_G_PH.jpg"
   },
   {
-    "source": "The Onion",
-    "headline": "Marathoner Already Pissing Self Half-Mile In",
-    "excerpt": "The post Marathoner Already Pissing Self Half-Mile In appeared first on The Onion .",
-    "link": "https://theonion.com/marathoner-already-pissing-self-half-mile-in/",
-    "published_at": "Sun, 11 Oct 2026 13:00:00 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/Marathon_Runner_Already_SB-IHA_GR-SOCIAL.jpg"
-  },
-  {
-    "source": "The Onion",
-    "headline": "Pentagon To Livestream Firing Squad Execution",
-    "excerpt": "In what would be the nation’s first public execution in 90 years, Defense Secretary Pete Hegseth announced the Pentagon would livestream Fort Hood shooter Nidal Hasan’s death by firing squad. What do you think? The post Pentagon To Livestream Firing Squad Execution appeared first on The Onion .",
-    "link": "https://theonion.com/pentagon-to-livestream-firing-squad-execution/",
-    "published_at": "Fri, 09 Oct 2026 20:58:43 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Young-Man.jpg?w=200"
+    "source": "The Daily Mash",
+    "headline": "Teenage couple almost convinced they like each other",
+    "excerpt": "",
+    "link": "https://www.thedailymash.co.uk/news/relationships/teenage-couple-almost-convinced-they-like-each-other-20261014270068",
+    "published_at": "Wed, 14 Oct 2026 15:06:44 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261014160147/teenage-couple-667x375-2.jpg"
   },
   {
     "source": "The Daily Mash",
@@ -150,13 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/lifestyle/we-tried-spending-absolutely-shitloads-for-a-year-and-weve-never-been-happier-20261013270031",
     "published_at": "Tue, 13 Oct 2026 10:00:06 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261013105105/couple-new-suv-667x375-1.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Man unable to answer Only Connect questions because Victoria Coren is on screen",
-    "excerpt": "A QUIZ-LOVING man watching BBC Two’s Only Connect was unable to answer any questions not because they were difficult, but because of Victoria Coren.",
-    "link": "https://www.thedailymash.co.uk/news/celebrity/man-unable-to-answer-only-connect-questions-because-victoria-coren-is-on-screen-20261013270027",
-    "published_at": "Tue, 13 Oct 2026 09:01:02 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261013095221/victoria-coren-mitchell-667x375-1.jpeg"
   }
 ]
