@@ -1,6 +1,62 @@
 [
   {
     "source": "The Onion",
+    "headline": "Goateed Off",
+    "excerpt": "The post Goateed Off appeared first on The Onion .",
+    "link": "https://theonion.com/goateed-off/",
+    "published_at": "Mon, 02 Nov 2026 16:33:09 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/11/KellyGoateedOff-SOCIAL.jpg"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Milwaukee Brewers Win First World Series",
+    "excerpt": "The Milwaukee Brewers clinched the World Series title over the Tampa Bay Rays in five games, marking the first championship in the franchise’s 57-year history. What do you think? The post Milwaukee Brewers Win First World Series appeared first on The Onion .",
+    "link": "https://theonion.com/milwaukee-brewers-win-first-world-series/",
+    "published_at": "Mon, 02 Nov 2026 16:30:50 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2025/05/Face-Young-Man.jpg?w=200"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Poll Finds More Americans Putting Out Cigarettes On Arm To Reclaim Sense Of Control",
+    "excerpt": "WASHINGTON—Revealing that the practice has surpassed quietly spinning the open cylinder of a revolver, a new poll published Monday found that more Americans were putting out cigarettes on their arm to reclaim a sense of control. “Our most recent survey indicates that almost one-third of U.S. residents are now taking a long drag on a […] The post Poll Finds More Americans Putting Out Cigarettes On Arm To Reclaim Sense Of Control appeared first on The Onion .",
+    "link": "https://theonion.com/poll-finds-more-americans-putting-out-cigarettes-on-arm-to-reclaim-sense-of-control/",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/Poll_Finds_Americans_Putting-NIB-IHA.jpg"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Poll: Americans Likelier To Vote For Candidate Who Hasn’t Barged In On Them In Bathroom Stall",
+    "excerpt": "HAMDEN, CT—Suggesting the act raises serious questions among voters about a politician’s respect for the average citizen’s privacy, a poll out Monday from Quinnipiac University found that Americans are more likely to vote for candidates who haven’t barged in on them in a bathroom stall. “Across age, race, gender, and ideological divisions, U.S. residents overwhelmingly […] The post Poll: Americans Likelier To Vote For Candidate Who Hasn’t Barged In On Them In Bathroom Stall appeared first on The Onion .",
+    "link": "https://theonion.com/poll-americans-likelier-to-vote-for-candidate-who-hasnt-barged-in-on-them-in-bathroom-stall/",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/Americans_Likelier_NIB_G_PH.jpg"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Trump Designates Poll Watchers As 7th U.S. Military Branch",
+    "excerpt": "WASHINGTON—In a move he claimed was essential to maintaining domestic security, President Donald Trump formally designated poll watchers as the seventh branch of the U.S. military this week. “I am hereby authorizing the formation of America’s newest and deadliest military branch: the U.S. Poll Watchers,” Trump said at a ceremony in the White House Rose Garden, […] The post Trump Designates Poll Watchers As 7th U.S. Military Branch appeared first on The Onion .",
+    "link": "https://theonion.com/trump-designates-poll-watchers-as-7th-u-s-military-branch/",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/Trump_Designates_Pollwatchers_NIB_IHA-GR.jpg"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Ask Not What Your Billionaire Pedophile Cabal Can Do For You, Ask What You Can Do For Your Billionaire Pedophile Cabal",
+    "excerpt": "On this, the momentous anniversary of our nation’s founding, I wish to devote a few words to the pivotal juncture at which our great republic now stands. Decisions made today will determine what kind of country your children inherit tomorrow. We must be willing to pay any price, bear any burden, and meet any hardship […] The post Ask Not What Your Billionaire Pedophile Cabal Can Do For You, Ask What You Can Do For Your Billionaire Pedophile Cabal appeared first on The Onion .",
+    "link": "https://theonion.com/ask-not-what-your-billionaire-pedophile-cabal-can-do-for-you-ask-what-you-can-do-for-your-billionaire-pedophile-cabal/",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/OE_Ask_Not_IHA_GR_R.png"
+  },
+  {
+    "source": "The Onion",
+    "headline": "Pros And Cons Of Democracy",
+    "excerpt": "Even after 250 years of government of the people, by the people, and for the people, democracy remains a hotly contested topic worldwide. The Onion examines the pros and cons of self-governance. PRO Still has alluringly exotic hint of Greece to it Just 30 minutes of voting burns 600 calories Any form of government that […] The post Pros And Cons Of Democracy appeared first on The Onion .",
+    "link": "https://theonion.com/pros-and-cons-of-democracy/",
+    "published_at": "Mon, 02 Nov 2026 14:00:00 +0000",
+    "image": "https://theonion.com/wp-content/uploads/2026/10/Pros_Cons_Democracy-PH-R.jpg"
+  },
+  {
+    "source": "The Onion",
     "headline": "Mother Stands Dead-Eyed Behind Child Explaining Anime Costume",
     "excerpt": "JOPLIN, MO—With any interest or passion dissolving from her face the moment her son started to recount his favorite arc from the 2006 shōnen series, local mother Debra Carlisle was reportedly spotted Saturday evening standing dead-eyed behind her son as he explained his Halloween anime costume to a neighbor while trick-or-treating. “No, I’m not a […] The post Mother Stands Dead-Eyed Behind Child Explaining Anime Costume appeared first on The Onion .",
     "link": "https://theonion.com/mother-stands-dead-eyed-behind-child-explaining-anime-costume/",
@@ -24,60 +80,52 @@
     "image": "https://theonion.com/wp-content/uploads/2026/10/Anthony_Davis_Going-SB-IHA-G_social.jpg"
   },
   {
-    "source": "The Onion",
-    "headline": "Scooby-Doo Retires After Taking Skydance Buyout",
-    "excerpt": "BURBANK, CA—Calling the decision “bittersweet,” Scooby-Doo announced his retirement Friday after accepting a voluntary buyout from media conglomerate Skydance. “While I’ve loved all the years I’ve spent unmasking villains with my friends, the writing was unfortunately on the wall,” said the cartoon Great Dane, who told reporters he was looking forward to spending more time […] The post Scooby-Doo Retires After Taking Skydance Buyout appeared first on The Onion .",
-    "link": "https://theonion.com/scooby-doo-retires-after-taking-skydance-buyout/",
-    "published_at": "Fri, 30 Oct 2026 17:53:41 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/Scooby-Doo_NIB_Movie_PH.jpg"
+    "source": "The Daily Mash",
+    "headline": "Briton who walked round world for 28 years loves what we’ve done with the place",
+    "excerpt": "",
+    "link": "https://www.thedailymash.co.uk/news/society/briton-who-walked-round-world-for-28-years-loves-what-weve-done-with-the-place-20261102270620",
+    "published_at": "Mon, 02 Nov 2026 17:05:44 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261102170151/karl-bushby-667x375-1.jpg"
   },
   {
-    "source": "The Onion",
-    "headline": "I Won’t Let My Son Play Football Because I Don’t Want Him In A Bisexual Love Triangle With The Head Cheerleader And Team Captain",
-    "excerpt": "As a parent, nothing’s more important to me than my child’s health and well-being. So when a fellow PTA mom asked me earlier this fall when my son was going to go out for the football team, I was aghast. Tackle football? Are you kidding me? Not for my son, no way. I won’t let […] The post I Won’t Let My Son Play Football Because I Don’t Want Him In A Bisexual Love Triangle With The Head Cheerleader And Team Captain appeared first on The Onion .",
-    "link": "https://theonion.com/i-wont-let-my-son-play-football-because-i-dont-want-him-in-a-bisexual-love-triangle-with-the-head-cheerleader-and-team-captain/",
-    "published_at": "Fri, 30 Oct 2026 16:27:08 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/OE_I_Wont_Let_My_Son_Play_IHA_GR_R.jpg"
+    "source": "The Daily Mash",
+    "headline": "Six big mistakes you’ll date just so your ex finds out",
+    "excerpt": "WANT to prove to your ex what a terrible act they committed in dumping you? These six red flags will force them to take you back out of basic decency.",
+    "link": "https://www.thedailymash.co.uk/news/relationships/six-big-mistakes-youll-date-just-so-your-ex-finds-out-20261102270616",
+    "published_at": "Mon, 02 Nov 2026 13:00:42 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261102125042/couple-jealous-667x375-1.jpeg"
   },
   {
-    "source": "The Onion",
-    "headline": "NYSE Opens Spirit Realm Stock Trading For One Night A Year",
-    "excerpt": "NEW YORK—Donning antlers and hooded robes as a fawn’s entrails were spilled onto the raised platform of the bell podium, New York Stock Exchange officials continued their annual tradition Friday of opening spirit realm stock trading for one night of the year. “Only in the twilight of the hunter’s moon, when the veil between our […] The post NYSE Opens Spirit Realm Stock Trading For One Night A Year appeared first on The Onion .",
-    "link": "https://theonion.com/nyse-opens-spirit-realm-stock-trading-for-one-night-a-year/",
-    "published_at": "Fri, 30 Oct 2026 16:14:41 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/NYSE_Opens_NIB_G_GR.jpg"
+    "source": "The Daily Mash",
+    "headline": "Freak has energy to do things on a weeknight",
+    "excerpt": "A DEEPLY disturbing man has the stamina to go out on Monday to Thursday evenings and wants to know if you are ready to join him.",
+    "link": "https://www.thedailymash.co.uk/news/lifestyle/freak-has-energy-to-do-things-on-a-weeknight-20261102270612",
+    "published_at": "Mon, 02 Nov 2026 12:00:36 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261102115502/man-out-night-667x375-1.jpeg"
   },
   {
-    "source": "The Onion",
-    "headline": "LeBron Shortens Commute By Having Xfinity Arena Helicoptered To New York Every Morning",
-    "excerpt": "The post LeBron Shortens Commute By Having Xfinity Arena Helicoptered To New York Every Morning appeared first on The Onion .",
-    "link": "https://theonion.com/lebron-shortens-commute-by-having-xfinity-arena-helicoptered-to-new-york-every-morning/",
-    "published_at": "Fri, 30 Oct 2026 16:09:39 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/Lebron_Shotens_Commute_SB_IHA-GR-SOCIAL.jpg"
+    "source": "The Daily Mash",
+    "headline": "Do you, personally, deserve reparations for history’s injustices? Take our quiz",
+    "excerpt": "NATIONS built on British slavery are demanding reparations for historic wrongs, but what about you? Your life isn’t all easy. Don’t you deserve something? Find out.",
+    "link": "https://www.thedailymash.co.uk/news/society/do-you-personally-deserve-reparations-for-historys-injustices-take-our-quiz-20261102270608",
+    "published_at": "Mon, 02 Nov 2026 11:00:06 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261102104900/charles-antigua-667x375-1.jpeg"
   },
   {
-    "source": "The Onion",
-    "headline": "Host Apparently Committing To Dracula Voice For Whole Party",
-    "excerpt": "ELKO, NV—Admiring the dedication to character but growing increasingly exasperated as the night wore on, friends of local man Paul Dorsey told reporters Friday that he had apparently committed to doing a Dracula voice for the entirety of his Halloween party. “When we got here, he said, ‘I beed you velcome’ in this over-the-top Slavic […] The post Host Apparently Committing To Dracula Voice For Whole Party appeared first on The Onion .",
-    "link": "https://theonion.com/host-apparently-committing-to-dracula-voice-for-whole-party/",
-    "published_at": "Fri, 30 Oct 2026 16:06:50 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/Host_Apparently_Committing-NIB-PH-G.jpg"
+    "source": "The Daily Mash",
+    "headline": "Romantic or stalkery? How it all depends on whether she fancies you back",
+    "excerpt": "GRAND romantic gesture, or difficult to explain to the police? It’s a surprisingly fine line, and all of these hinge on whether she considers you fit.",
+    "link": "https://www.thedailymash.co.uk/news/relationships/romantic-or-stalkery-how-it-all-depends-on-whether-she-fancies-you-back-20261102270604",
+    "published_at": "Mon, 02 Nov 2026 10:00:48 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261102095340/serenading-667x375-1.jpg"
   },
   {
-    "source": "The Onion",
-    "headline": "How To Incorporate AI Into Your Daily Life",
-    "excerpt": "Despite the ubiquity of autonomous agents and chatbots, many Americans are still confused about how to make AI part of their daily routines. The Onion provides tips for using AI to your advantage. Use Claude to scan long, boring emails for important info like court dates and official charges. Drop your standards for a romantic […] The post How To Incorporate AI Into Your Daily Life appeared first on The Onion .",
-    "link": "https://theonion.com/how-to-incorporate-ai-into-your-daily-life/",
-    "published_at": "Fri, 30 Oct 2026 15:39:20 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/EXP_Incorporate_AI_G_PH.jpg"
-  },
-  {
-    "source": "The Onion",
-    "headline": "Ghosts and Gobblin’",
-    "excerpt": "The post Ghosts and Gobblin’ appeared first on The Onion .",
-    "link": "https://theonion.com/ghosts-and-gobblin/",
-    "published_at": "Fri, 30 Oct 2026 14:41:15 +0000",
-    "image": "https://theonion.com/wp-content/uploads/2026/10/KellyGhostsAndGobblin-SOCIAL.jpg"
+    "source": "The Daily Mash",
+    "headline": "Middle-class couple describe £900 weekend away as ‘little break’",
+    "excerpt": "A COUPLE who spent close to a thousand pounds on three days in Vienna have called what to others would be a major financial event a mere ‘trippette’.",
+    "link": "https://www.thedailymash.co.uk/news/lifestyle/middle-class-couple-describe-900-weekend-away-as-little-break-20261102270600",
+    "published_at": "Mon, 02 Nov 2026 09:00:43 +0000",
+    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261102085418/couple-vienna-667x375-1.jpeg"
   },
   {
     "source": "The Daily Mash",
@@ -110,53 +158,5 @@
     "link": "https://www.thedailymash.co.uk/news/work/parking-at-work-now-hardest-part-of-most-jobs-2-20261030270477",
     "published_at": "Fri, 30 Oct 2026 13:02:12 +0000",
     "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261028172952/partking-667x375-1.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Tragic: Sir Patrick Stewart will never know who won Traitors",
-    "excerpt": "SIR Patrick Stewart's passing is all the more heartbreaking because he will never find out if Maya murdered Michael Sheen.",
-    "link": "https://www.thedailymash.co.uk/news/celebrity/tragic-sir-patrick-stewart-will-never-know-who-won-traitors-20261030270565",
-    "published_at": "Fri, 30 Oct 2026 11:01:48 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261030105450/sir-patrick-stewart-667x375-1.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "How to be outraged about the Oxford Street pedestrianisation even if you live in Wigan",
-    "excerpt": "HAS something happened in the capital you don't live in and which will never affect you? Get furious about it anyway with this rational guide.",
-    "link": "https://www.thedailymash.co.uk/news/society/how-to-be-outraged-about-the-oxford-street-pedestrianisation-even-if-you-live-in-wigan-20261030270547",
-    "published_at": "Fri, 30 Oct 2026 10:05:15 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261030085920/oxford-street-667x375-2.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Thinking the unthinkable: Is The Celebrity Traitors just another daft reality show?",
-    "excerpt": "DESPITE last night's events, there's noticeably less fervour surrounding The Celebrity Traitors than when it started. Dare anyone suggest it's just another slightly silly reality TV show? Here's why it might be.",
-    "link": "https://www.thedailymash.co.uk/news/arts-entertainment/thinking-the-unthinkable-is-the-celebrity-traitors-just-another-daft-reality-show-20261030270534",
-    "published_at": "Fri, 30 Oct 2026 09:04:09 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261030083308/traitors-667x375-1.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "We f**ked up by having things that weren’t £1, admits Poundland",
-    "excerpt": "",
-    "link": "https://www.thedailymash.co.uk/news/business/we-fked-up-by-having-things-that-werent-1-admits-poundland-20261029270530",
-    "published_at": "Thu, 29 Oct 2026 17:00:20 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261029163139/poundland-667-FINAL.jpg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "‘I improvised all the funny lines’ and other actors’ lies",
-    "excerpt": "IT’S fair enough when actors lie about being chased by a Terminator or whatever, but not so much when they lie about the not-made-up world. Here are six of their most common porkies.",
-    "link": "https://www.thedailymash.co.uk/news/arts-entertainment/i-improvised-all-the-funny-lines-and-other-actors-lies-20261029270494",
-    "published_at": "Thu, 29 Oct 2026 13:01:03 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261029123543/interview-seth-rogen-SMALL.jpeg"
-  },
-  {
-    "source": "The Daily Mash",
-    "headline": "Finger sucking, and other unpleasant experiences men think are turning you on",
-    "excerpt": "DOES your inept partner keep trying to arouse you with random foreplay techniques he’s convinced himself are incredibly sexy? Beware of these.",
-    "link": "https://www.thedailymash.co.uk/news/relationships/finger-sucking-and-other-unpleasant-experiences-men-think-are-turning-you-on-20261029270489",
-    "published_at": "Thu, 29 Oct 2026 12:00:50 +0000",
-    "image": "https://cdn.thedailymash.co.uk/wp-content/uploads/20261028211217/couple-finger-SMALL.jpeg"
   }
 ]
